@@ -8,5 +8,5 @@ curl -O https://raw.githubusercontent.com/satyamkumar420/VI/refs/heads/main/vi.b
 - vi_li.sh
 
 ```bash
-curl -O https://raw.githubusercontent.com/satyamkumar420/VI/refs/heads/main/VI_LI.sh && VI_LI.sh
+curl -O https://raw.githubusercontent.com/satyamkumar420/VI/refs/heads/main/VI_LI.sh && chmod +x VI_LI.sh && VI_LI.sh
 ```
